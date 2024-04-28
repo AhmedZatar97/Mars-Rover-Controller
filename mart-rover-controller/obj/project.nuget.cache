@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qoB4LUa004kzL5tl3wKkfNU2Cxlftq9dHkGAy9uXBYegQHfM6/IIAL8Asaii78+H64M4ipQ2ott6QC6dtWdOQ==",
+  "success": true,
+  "projectFilePath": "/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/mart-rover-controller.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmad/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/ahmad/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/ahmad/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
