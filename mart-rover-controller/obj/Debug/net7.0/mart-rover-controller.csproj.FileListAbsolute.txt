@@ -1,0 +1,15 @@
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/bin/Debug/net7.0/mart-rover-controller
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/bin/Debug/net7.0/mart-rover-controller.deps.json
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/bin/Debug/net7.0/mart-rover-controller.runtimeconfig.json
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/bin/Debug/net7.0/mart-rover-controller.dll
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/bin/Debug/net7.0/mart-rover-controller.pdb
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.AssemblyInfoInputs.cache
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.AssemblyInfo.cs
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.csproj.CoreCompileInputs.cache
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.sourcelink.json
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.dll
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/refint/mart-rover-controller.dll
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.pdb
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/mart-rover-controller.genruntimeconfig.cache
+/Users/ahmad/Projects/mart-rover-controller/mart-rover-controller/obj/Debug/net7.0/ref/mart-rover-controller.dll
